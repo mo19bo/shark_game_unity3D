@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scene1\material\doubleshader.shader">
+    <Files>
+      <File FileName="Assets\Scene1\material\doubleshader.shader" Line="11" Column="15" />
+      <File FileName="Temp\Compiled-Alpha-Diffuse.shader" Line="1" Column="1" />
+      <File FileName="Temp\Compiled-Alpha-Parallax.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scene4_1\script\tooth_children.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

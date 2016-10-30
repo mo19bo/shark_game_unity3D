@@ -1,0 +1,17 @@
+﻿#pragma strict
+
+function Start () {
+
+}
+
+function Update () {
+
+}
+function OnGUI(){
+if((Input.GetKey(KeyCode.Escape) )){
+
+Application.LoadLevel(2);
+}//返回按钮
+}
+
+
